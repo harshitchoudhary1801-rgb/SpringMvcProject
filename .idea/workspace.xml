@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf50ecd1-e0d8-41af-be91-b1a3eeae5643" name="Changes" comment="" />
+    <list default="true" id="bf50ecd1-e0d8-41af-be91-b1a3eeae5643" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PrintString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,29 +37,35 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Factorial.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.PrimeNumberCheck.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "O:/GitTest/SpringMvcProject/src",
+    "last_opened_file_path": "O:/GitTest/SpringMvcProject/fibonacci number",
     "onboarding.tips.debug.path": "O:/GitTest/SpringMvcProject/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "vcs.Git",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="O:\GitTest\SpringMvcProject\fibonacci number" />
+      <recent name="O:\GitTest\SpringMvcProject\src" />
       <recent name="O:\GitTest\SpringMvcProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
+  <component name="RunManager" selected="Application.PrintString">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="SpringMvcProject" />
@@ -67,6 +82,13 @@
     </configuration>
     <configuration name="PrimeNumberCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeNumberCheck" />
+      <module name="SpringMvcProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintString" />
       <module name="SpringMvcProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintString" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.PrimeNumberCheck" />
         <item itemvalue="Application.SecondLargest" />
