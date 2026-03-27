@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf50ecd1-e0d8-41af-be91-b1a3eeae5643" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrintString.java" afterDir="false" />
-    </list>
+    <list default="true" id="bf50ecd1-e0d8-41af-be91-b1a3eeae5643" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +37,9 @@
     "Application.Factorial.executor": "Run",
     "Application.MergeSort.executor": "Run",
     "Application.PrimeNumberCheck.executor": "Run",
+    "Application.PrintString.executor": "Run",
     "Application.SecondLargest.executor": "Run",
+    "Application.SwapNumbers.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,14 +65,7 @@
       <recent name="O:\GitTest\SpringMvcProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintString">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorial" />
-      <module name="SpringMvcProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SwapNumber">
     <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeSort" />
       <module name="SpringMvcProject" />
@@ -94,8 +87,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondLargest" />
+    <configuration name="SwapNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwapNumber" />
+      <module name="SpringMvcProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwapNumbers" />
       <module name="SpringMvcProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapNumber" />
+        <item itemvalue="Application.SwapNumbers" />
         <item itemvalue="Application.PrintString" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.PrimeNumberCheck" />
-        <item itemvalue="Application.SecondLargest" />
-        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
